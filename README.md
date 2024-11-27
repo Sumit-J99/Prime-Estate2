@@ -61,33 +61,35 @@ The backend of the Prime Estate application is built using Express.js, a popular
 
 1. Clone the repository:
 
+```bash
 git clone https://github.com/Sumit-J99/Prime-Estate2.git
-
+```
 
 2. Navigate to the project directory:
 
+```bash
 cd Prime-Estate
-
+```
 
 3. Install dependencies for both frontend and backend:
-
+```bash
 npm install
 cd client && npm install
-
+```
 
 4. Set up environment variables:
    - Create a .env file in the root directory and add the necessary environment variables.
    - Also, create a .env file in the client directory and add the required environment variables.
 
 5. Start the backend server:
-
+```bash
 npm run dev
-
+```
 
 6. Start the frontend development server:
-
+```bash
 cd client && npm run dev
-
+```
 
 7. Open your browser and navigate to the local development server URL to view the application.
 
