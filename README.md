@@ -61,7 +61,7 @@ The backend of the Prime Estate application is built using Express.js, a popular
 
 1. Clone the repository:
 
-git clone https://github.com/Nirav-919/Prime-Estate.git
+git clone https://github.com/Sumit-J99/Prime-Estate2.git
 
 
 2. Navigate to the project directory:
